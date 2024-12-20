@@ -1,2 +1,2 @@
-#proyecto 1
-##proyecto de cursada
+# proyecto 1
+## proycto de cursada
